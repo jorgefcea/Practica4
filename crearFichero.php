@@ -37,7 +37,7 @@
 
                     if ($archivo) {
 
-                        $contenido = "Hola, soy un fichero nuevo2.\n";
+                        $contenido = "Hola, soy un fichero nuevo.\n";
 
                         fwrite($archivo, $contenido);
 
